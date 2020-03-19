@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6D3F</color>
+    <color name="colorPrimaryDark">#FD4D16</color>
+    <color name="colorAccent">#D8371B</color>
+
+    <color name="bg_splash_orange">#D8523A</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="lingkaran_whatsapp">#FFFFC107</color>
+    <color name="lingakran_bencanaalam">#FFFFC107</color>
+    <color name="lingkaran_kamar">#FFFFC107</color>
+    <color name="lingkaran_kebakaran">#FFFFC107</color>
+    <color name="lingkaran_kecelakaan">#FFFFC107</color>
+    <color name="lingkaran_kejahatan">#FFFFC107</color>
+    <color name="lingkaran_kesehatan">#FFFFC107</color>
+    <color name="lingkaran_layanankesehatan">#FFFFC107</color>
+    <color name="lingkaran_telepon">#FFFFC107</color>
+</resources>
